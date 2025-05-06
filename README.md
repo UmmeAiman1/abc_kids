@@ -1,16 +1,27 @@
-# abc_kids
+# abc kids
 
-A new Flutter project.
+**abc kids** is an interactive educational app designed to help children learn to trace and write the English alphabet. The app uses **Flutter**, **CustomPainter** for drawing, and **GetX** for state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Alphabet tracing with custom drawing.
+- Simple navigation through letters A–Z.
+- Retry the current letter or move to the next.
+- Child-friendly UI with colorful themes.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** for mobile development.
+- **Dart** for app logic.
+- **CustomPainter** for drawing the tracing lines.
+- **GetX** for state management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was developed as part of my internship to apply practical knowledge of **Flutter** and mobile development. It demonstrates my ability to create educational and interactive apps while ensuring smooth performance and user experience.
+
+## Author
+
+Developed by **Umme Aiman** during an internship at Innovaronix. as part of a mobile development training program.
+
+## License
+
+This project is licensed under the MIT License.
